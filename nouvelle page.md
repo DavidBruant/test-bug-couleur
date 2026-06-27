@@ -1,6 +1,6 @@
 ---
 title: "nouvelle page"
 order: 5
-in_menu: true
+in_menu: false
 ---
 yep 
